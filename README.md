@@ -1,20 +1,16 @@
-# Portafoli Personal
+<h1 align="center">Hi 👋, I'm Gerijacki</h1>
+<h3 align="center">A passionate code devoloper from Barcelona</h3>
 
-Benvingut al meu portafoli personal! Aquest repositori conté el codi font i els arxius necessaris per mostrar els meus projectes, habilitats i experiència. Aquí podràs trobar una varietat de treballs que he realitzat, des de desenvolupament web fins a projectes d'aprenentatge i moltes altres coses interessants.
+- 🔭 I’m currently working on [facemash-v2](https://github.com/Gerijacki/facemash-v2)
 
-## Què Hi Trobaràs
+- 🤝 I’m currently working on [Cibersecurity projects](https://github.com/Gerijacki/Mine-Startupv2)
 
-- **Proyectes:** Una llista dels meus últims projectes, cadascun amb una descripció i enllaços als repositoris o als llocs web corresponents.
-- **Habilitats:** Les tecnologies i les habilitats que domino, des de llenguatges de programació fins a eines de desenvolupament i disseny.
-- **Experiència:** Un resum de la meva trajectòria professional, els llocs on he treballat i els rols que he ocupat.
-- **Formació:** Informació sobre els meus estudis i certificats rellevants.
+- 👨‍💻 All of my projects are available at [My portfolio](https://gerijacki.github.io/)
 
-## Com Navegar pel Repositori
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@byjacki12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@byjacki12" height="30" width="40" /></a>
+</p>
 
-El repositori està organitzat en carpetes per a cada categoria, i dins d'aquestes carpetes hi trobaràs arxius HTML, CSS, JavaScript i altres dependents del projecte. També hi haurà enllaços a la meva pàgina personal i altres plataformes de xarxes socials on més informació sobre mi.
-
-## Com Contactar-me
-
-Si estàs interessat en col·laborar en un projecte o simplement vols xerrar, pots posar-te en contacte amb mi a través del correu electrònic o a través de les meves xarxes socials. Estic obert a noves oportunitats i col·laboracions emocionants!
-
-Gràcies per visitar el meu portafoli. Espero que gaudeixis explorant els meus projectes tant com jo ho he fet creant-los.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
