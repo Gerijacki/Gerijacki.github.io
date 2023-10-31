@@ -2,7 +2,7 @@
 <!-- Título y Descripción -->
   <img src="https://github.com/Gerijacki.png" width="100" alt="Logo"/><br/>
   Hi 👋, I'm <a href="https://github.com/Gerijacki">Gerijacki</a>
-  <h3 align="center">Un apasionado desarrollador de código de Barcelona</h3>
+  <h3 align="center">Un apasionado programador de Barcelona</h3>
 </p>
 
 <p align="center">
