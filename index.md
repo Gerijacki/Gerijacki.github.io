@@ -13,9 +13,9 @@
 
 <h2 align="center">Sobre Mí</h2>
 
-- 🔭 Actualmente estoy trabajando en [Facemash-v2](https://github.com/Gerijacki/facemash-v2)
+- 🔭 Actualmente estoy trabajando en [Facemash-v2](https://github.com/DuckHats/eduQuack)
 - 🤝 También estoy trabajando en [Proyectos de Ciberseguridad](https://github.com/Gerijacki/Mine-Startupv2)
-- 👨‍💻 Todos mis proyectos están disponibles en [Mi Portafolio](https://gerijacki.github.io/)
+- 👨‍💻 Todos mis proyectos están disponibles en [Mi Portafolio](https://Gerijacki.github.io/)
 - 🌱 Actualmente estoy aprendiendo **Tecnologías de Python**
 - 💬 Puedes preguntarme acerca de **cualquier cosa**
 - 📫 Cómo contactarme: [Twitter](https://twitter.com/@byjacki12)
