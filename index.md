@@ -12,18 +12,18 @@
 </p>
 
 <!-- Sección de Proyectos -->
-<h2 align="center">Proyectos Destacados</h2>
+<h2 align="center">Proyectos Destacados: </h2>
 
 <!-- Proyecto 1 -->
 <div align="center">
-  <h3><a href="https://github.com/Gerijacki/facemash-v2">Facemash-v2</a></h3>
-  <img src="URL_DE_LA_IMAGEN_DEL_PROYECTO" alt="Facemash-v2" width="300px" />
+  <h3><a href="https://github.com/DuckHats/eduQuack">eduQuack</a></h3>
+  <img src="https://github.com/DuckHats.png" alt="eduQuack" width="300px" />
 </div>
 
 <!-- Proyecto 2 -->
 <div align="center">
   <h3><a href="https://github.com/Gerijacki/Mine-Startupv2">Cibersecurity Projects</a></h3>
-  <img src="URL_DE_LA_IMAGEN_DEL_PROYECTO" alt="Cibersecurity Projects" width="300px" />
+  <img src="https://github.com/Gerijacki.png" alt="Cibersecurity Projects" width="300px" />
 </div>
 
 <!-- Enlaces a Redes Sociales -->
