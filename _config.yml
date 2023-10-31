@@ -1,0 +1,5 @@
+title: Gerijacki
+description: Welcome to my portfolio page.
+show_downloads: false #false if you don't want downloads or true if you want
+google_analytics:
+theme: jekyll-theme-cayman
