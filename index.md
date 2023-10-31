@@ -42,7 +42,7 @@
   <div style="flex: 1; text-align: right; padding-right: 20px;">
     <h3><a href="https://github.com/Gerijacki/Mine-Startupv2">Cibersecurity Projects</a></h3>
     <p>Explora el mundo de la ciberseguridad con nuestros proyectos innovadores y soluciones!</p>
-    <a href="https://github.com/Gerijacki/Mine-Startupv2">Ver Proyecto</a>
+    <a href="https://github.com/Gerijacki">Ver Proyecto</a>
   </div>
   <div style="flex: 1;">
     <img src="https://github.com/Gerijacki.png" alt="Cibersecurity Projects" width="200px" style="border-radius: 50%;" />
@@ -55,7 +55,7 @@
 <div align="center">
   <a href="https://twitter.com/byjacki12" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://github.com/Gerijacki" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="MAILTO:AQUI_TU_CORREO_ELECTRONICO"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="MAILTO:AAA"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <!-- Lenguajes y Herramientas -->
