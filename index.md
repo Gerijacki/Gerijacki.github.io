@@ -41,11 +41,23 @@
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="flex: 1; text-align: right; padding-right: 20px;">
     <h3><a href="https://github.com/Gerijacki/Mine-Startupv2">Cibersecurity Projects</a></h3>
-    <p>Explora el mundo de la ciberseguridad con nuestros proyectos innovadores y soluciones!</p>
+    <p>Explora el mundo de la ciberseguridad con mis proyectos!</p>
     <a href="https://github.com/Gerijacki">Ver Proyecto</a>
   </div>
   <div style="flex: 1;">
     <img src="https://github.com/Gerijacki.png" alt="Cibersecurity Projects" width="200px" style="border-radius: 50%;" />
+  </div>
+</div>
+
+<!-- Proyecto 3 -->
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="flex: 1; text-align: right; padding-right: 20px;">
+    <h3><a href="https://github.com/Gerijacki/yt_mp4">Youtube-MP4</a></h3>
+    <p>Este proyecto, basado en Python, te permite descargar videos de YouTube de forma sencilla y rápida!</p>
+    <a href="https://github.com/Gerijacki">Ver Proyecto</a>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2016%2F04%2F24%2F14%2F34%2Fyoutube-1349699_1280.png&f=1&nofb=1&ipt=43b21fe9f52b4131d6669938005e36272a5b2f79fbcd9f0f1a5609a3e077dd69&ipo=images" alt="yt_mp4" width="200px" style="border-radius: 50%;" />
   </div>
 </div>
 
