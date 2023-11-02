@@ -61,6 +61,18 @@
   </div>
 </div>
 
+<!-- Proyecto 4 -->
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="flex: 1; text-align: right; padding-right: 20px;">
+    <h3><a href="https://github.com/Gerijacki/Secure-passwd">Spasswd</a></h3>
+    <p>Este proyecto, basado en Python, te permite generar contrasenyas seguras y ràpidas basadas en tus necesidades!!</p>
+    <a href="https://github.com/Gerijacki">Ver Proyecto</a>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F704175.png&f=1&nofb=1&ipt=f83a35f2e3a4b30faadf0072c99490c3af57acf54221cda4d23daec641faf3ba&ipo=images" alt="yt_mp4" width="200px" style="border-radius: 50%;" />
+  </div>
+</div>
+
 
 <!-- Enlaces a Redes Sociales -->
 <h3 align="center">Conéctate conmigo:</h3>
