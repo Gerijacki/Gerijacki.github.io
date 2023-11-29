@@ -1,3 +1,9 @@
+---
+layout: default
+title: Projects
+description: My current projects
+---
+
 <p align="center">
 <!-- Título y Descripción -->
   <img src="https://github.com/Gerijacki.png" width="100" alt="Logo"/><br/>
@@ -10,17 +16,6 @@
     <a href="https://github.com/Gerijacki/Gerijacki.github.io/issues"><img src="https://img.shields.io/github/issues/Gerijacki/Gerijacki.github.io?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
     <a href="https://github.com/Gerijacki/Gerijacki.github.io/contributors"><img src="https://img.shields.io/github/contributors/Gerijacki/Gerijacki.github.io?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
-
-<h2 align="center">Sobre Mí</h2>
-
-- 🔭 Actualmente estoy trabajando en [Facemash-v2](https://github.com/DuckHats/eduQuack)
-- 🤝 También estoy trabajando en [Proyectos de Ciberseguridad](https://github.com/Gerijacki/Mine-Startupv2)
-- 👨‍💻 Todos mis proyectos están disponibles en [Mi Portafolio](https://Gerijacki.github.io/)
-- 🌱 Actualmente estoy aprendiendo **Tecnologías de Python**
-- 💬 Puedes preguntarme acerca de **cualquier cosa**
-- 📫 Cómo contactarme: [Twitter](https://twitter.com/@byjacki12)
-
----
 
 <!-- Sección de Proyectos -->
 <h2 align="center">Proyectos Destacados</h2>
@@ -49,10 +44,40 @@
   </div>
 </div>
 
+<!-- Proyecto 3 -->
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="flex: 1; text-align: right; padding-right: 20px;">
+    <h3><a href="https://github.com/Gerijacki/yt_mp4">Youtube-MP4</a></h3>
+    <p>Este proyecto, basado en Python, te permite descargar videos de YouTube de forma sencilla y rápida!</p>
+    <a href="https://github.com/Gerijacki">Ver Proyecto</a>
+  </div>
+  <div style="flex: 1;">
+    <img src="./img/yt.png" alt="yt_mp4" width="200px" style="border-radius: 50%;" />
+  </div>
+</div>
 
+<!-- Proyecto 4 -->
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="flex: 1; text-align: right; padding-right: 20px;">
+    <h3><a href="https://github.com/Gerijacki/Secure-passwd">Spasswd</a></h3>
+    <p>Este proyecto, basado en Python, te permite generar contrasenyas seguras y ràpidas basadas en tus necesidades!!</p>
+    <a href="https://github.com/Gerijacki">Ver Proyecto</a>
+  </div>
+  <div style="flex: 1;">
+    <img src="./img/psswd.png" alt="yt_mp4" width="200px" style="border-radius: 50%;" />
+  </div>
+</div>
 
-<div align="center">
-  <a href="./projects.md"><h3 align="center">Ver más proyectos:</h3></a>
+<!-- Proyecto 5 -->
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="flex: 1; text-align: right; padding-right: 20px;">
+    <h3><a href="https://github.com/Gerijacki/dic-compare">Shadowbyte</a></h3>
+    <p>Este proyecto, basado en Python, te permite comparar directorios, archivos y mucho más!!</p>
+    <a href="https://github.com/Gerijacki">Ver Proyecto</a>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github.com/Gerijacki.png" alt="yt_mp4" width="200px" style="border-radius: 50%;" />
+  </div>
 </div>
 
 <!-- Enlaces a Redes Sociales -->
@@ -63,23 +88,6 @@
   <a href="MAILTO:AAA"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<!-- Lenguajes y Herramientas -->
-<h3 align="center">Lenguajes y Herramientas:</h3>
-<div align="center">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mariadb-icon.svg" alt="Mariadb" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-
-</div>
-
 <!-- Estadísticas de GitHub -->
 <h3 align="center">Estadísticas de GitHub</h3>
 <div align="center">
@@ -88,3 +96,4 @@
 
 <!-- Footer -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
