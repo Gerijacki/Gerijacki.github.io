@@ -52,7 +52,7 @@
 
 
 <div align="center">
-  <a href="./projects.md"><h3 align="center">Ver más proyectos:</h3></a>
+  <a href="./projects"><h2 align="center">Ver más proyectos:</h2></a>
 </div>
 
 <!-- Enlaces a Redes Sociales -->
