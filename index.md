@@ -49,6 +49,18 @@
   </div>
 </div>
 
+<!-- Proyecto 3 -->
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="flex: 1; text-align: right; padding-right: 20px;">
+    <h3><a href="https://github.com/Gerijacki/Shadowbyte/releases">My own App</a></h3>
+    <p>Mi propia aplicación en Python</p>
+    <a href="https://github.com/Gerijacki/Shadowbyte">Ver Proyecto</a>
+  </div>
+  <div style="flex: 1;">
+    <img src="./img/shadowbyte.jpg" alt="Cibersecurity Projects" width="200px" style="border-radius: 50%;" />
+  </div>
+</div>
+
 
 
 <div align="center">
