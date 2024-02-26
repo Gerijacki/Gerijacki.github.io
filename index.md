@@ -2,7 +2,7 @@
 <!-- Título y Descripción -->
   <img src="https://github.com/Gerijacki.png" width="100" alt="Logo"/><br/>
   Hi 👋, I'm <a href="https://github.com/Gerijacki">Gerijacki</a>
-  <h3 align="center">Un apasionado programador de Barcelona</h3>
+  <h3 align="center">Un apasionado informático</h3>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 <!-- Proyecto 1 -->
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="flex: 1; text-align: right; padding-right: 20px;">
-    <h3><a href="https://github.com/DuckHats/eduQuack">eduQuack</a></h3>
+    <h3>eduQuack</h3>
     <p>Intranet educativa interactiva desarroyada para facilitar el trato alumno professor y implementar todas las facilidades para los dos!</p>
     <a href="https://github.com/DuckHats/eduQuack">Ver Proyecto</a>
   </div>
@@ -40,7 +40,7 @@
 <!-- Proyecto 2 -->
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="flex: 1; text-align: right; padding-right: 20px;">
-    <h3><a href="https://github.com/Gerijacki/Mine-Startupv2">Cibersecurity Projects</a></h3>
+    <h3>Cibersecurity Projects</h3>
     <p>Explora el mundo de la ciberseguridad con mis proyectos!</p>
     <a href="https://github.com/Gerijacki">Ver Proyecto</a>
   </div>
@@ -52,7 +52,7 @@
 <!-- Proyecto 3 -->
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="flex: 1; text-align: right; padding-right: 20px;">
-    <h3><a href="https://github.com/Gerijacki/Shadowbyte/releases">My own App</a></h3>
+    <h3>My own App</h3>
     <p>Mi propia aplicación en Python</p>
     <a href="https://github.com/Gerijacki/Shadowbyte">Ver Proyecto</a>
   </div>
