@@ -23,72 +23,24 @@ description: My current projects
 <!-- Proyecto 1 -->
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="flex: 1; text-align: right; padding-right: 20px;">
-    <h3>eduQuack</h3>
-    <p>Intranet educativa interactiva desarroyada para facilitar el trato alumno professor y implementar todas las facilidades para los dos!</p>
-    <a href="https://github.com/DuckHats/eduQuack">Ver Proyecto</a>
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github.com/DuckHats.png" alt="eduQuack" width="200px" style="border-radius: 50%;" />
-  </div>
-</div>
-
-<!-- Proyecto 2 -->
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="flex: 1; text-align: right; padding-right: 20px;">
-    <h3>Cibersecurity Projects</h3>
-    <p>Explora el mundo de la ciberseguridad con mis proyectos!</p>
-    <a href="https://github.com/Gerijacki">Ver Proyecto</a>
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github.com/Gerijacki.png" alt="Cibersecurity Projects" width="200px" style="border-radius: 50%;" />
-  </div>
-</div>
-
-<!-- Proyecto 3 -->
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="flex: 1; text-align: right; padding-right: 20px;">
-    <h3>Youtube-MP4</h3>
-    <p>Este proyecto, basado en Python, te permite descargar videos de YouTube de forma sencilla y rápida!</p>
-    <a href="https://github.com/Gerijacki">Ver Proyecto</a>
-  </div>
-  <div style="flex: 1;">
-    <img src="./img/yt.png" alt="yt_mp4" width="200px" style="border-radius: 50%;" />
-  </div>
-</div>
-
-<!-- Proyecto 4 -->
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="flex: 1; text-align: right; padding-right: 20px;">
-    <h3>Spasswd</h3>
-    <p>Este proyecto, basado en Python, te permite generar contrasenyas seguras y ràpidas basadas en tus necesidades!</p>
-    <a href="https://github.com/Gerijacki">Ver Proyecto</a>
-  </div>
-  <div style="flex: 1;">
-    <img src="./img/psswd.png" alt="yt_mp4" width="200px" style="border-radius: 50%;" />
-  </div>
-</div>
-
-<!-- Proyecto 5 -->
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="flex: 1; text-align: right; padding-right: 20px;">
-    <h3>Shadowbyte</h3>
-    <p>Este proyecto, basado en Python, te permite comparar directorios, archivos y mucho más!!</p>
-    <a href="https://github.com/Gerijacki">Ver Proyecto</a>
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github.com/Gerijacki.png" alt="yt_mp4" width="200px" style="border-radius: 50%;" />
-  </div>
-</div>
-
-<!-- Proyecto 6 -->
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="flex: 1; text-align: right; padding-right: 20px;">
     <h3>My Home Server</h3>
     <p>Explora el mundo de los "Home Labs" conmigo!</p>
     <a href="https://github.com/Gerijacki/Home_server">Ver Proyecto</a>
   </div>
   <div style="flex: 1;">
     <img src="https://github.com/Gerijacki.png" alt="Home Server" width="200px" style="border-radius: 50%;" />
+  </div>
+</div>
+
+<!-- Proyecto 2 -->
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="flex: 1; text-align: right; padding-right: 20px;">
+    <h3>Rubber Ducky Scripts</h3>
+    <p>Explora el mundo de los "Ducky Scripts" conmigo!</p>
+    <a href="https://github.com/Gerijacki/rubberduckey">Ver Proyecto</a>
+  </div>
+  <div style="flex: 1;">
+    <img src="./img/psswd.png" alt="Home Server" width="200px" style="border-radius: 50%;" />
   </div>
 </div>
 

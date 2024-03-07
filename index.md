@@ -29,7 +29,7 @@
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="flex: 1; text-align: right; padding-right: 20px;">
     <h3>eduQuack</h3>
-    <p>Intranet educativa interactiva desarroyada para facilitar el trato alumno professor y implementar todas las facilidades para los dos!</p>
+    <p>Intranet educativa interactiva desarroyada para facilitar el trato alumno professor y implementar todas las facilidades!</p>
     <a href="https://github.com/DuckHats/eduQuack">Ver Proyecto</a>
   </div>
   <div style="flex: 1;">
