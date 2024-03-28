@@ -5,20 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gerijacki&theme=radical" alt="Gerijacki" /></a> </p>
 
-<h2 align="center">Sobre Mí</h2>
-
-- 🔭 Actualmente estoy trabajando en [Facemash-v2](https://github.com/Gerijacki/facemash-v2)
-- 🤝 También estoy trabajando en [Proyectos de Ciberseguridad](https://github.com/Gerijacki/Mine-Startupv2)
-- 👨‍💻 Todos mis proyectos están disponibles en [Mi Portafolio](https://gerijacki.github.io/)
-- 🌱 Actualmente estoy aprendiendo **Tecnologías de Python**
-- 💬 Puedes preguntarme acerca de **cualquier cosa**
-- 📫 Cómo contactarme: [Twitter](https://twitter.com/@byjacki12)
-
----
+- 🔭 I’m currently working on [Facemash-v2](https://github.com/Gerijacki/facemash-v2)
+- 🤝 I’m currently working on [Cibersecurity projects](https://github.com/Gerijacki/Mine-Startupv2)
+- 👨‍💻 All of my projects are available at [My portfolio](https://gerijacki.github.io/)
+- 🌱 I’m currently learning **Python tecnologies**
+- 💬 Ask me about **anything**
+- 📫 How to reach me **byjacki12@gmail.com**
 
 <div> <a href="https://twitter.com/@byjacki12" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Gerijacki" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:byjacki12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@byjacki12" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="@byjacki12" height="30" width="40" /></a></p>
