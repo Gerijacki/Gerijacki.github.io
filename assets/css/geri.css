@@ -11493,16 +11493,14 @@ pre .code {
   position: relative;
   height: 80vh;
   min-height: 600px;
-  /* background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/header.jpg);
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/header.jpg); */
-  background: rgb(208,121,255);
-  background: linear-gradient(90deg, rgba(208,121,255,1) 0%, rgba(137,91,255,1) 67%, rgba(246,75,102,1) 100%);
+  background-image: url('../imgs/banner.jpg'); /* Ruta a la imagen dentro de tu aplicación */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   color: #fff;
 }
+
 
 .header .container {
   position: relative;
