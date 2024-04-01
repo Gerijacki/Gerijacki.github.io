@@ -11493,12 +11493,19 @@ pre .code {
   position: relative;
   height: 80vh;
   min-height: 600px;
-  background-image: url('../imgs/banner.jpg'); /* Ruta a la imagen dentro de tu aplicación */
+  background-image: url('../imgs/banner.jpg'); 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   color: #fff;
+}
+
+@media only screen and (max-width: 600px) {
+  .header {
+    background-image: none; 
+    background-color: #9c609a; 
+  }
 }
 
 
