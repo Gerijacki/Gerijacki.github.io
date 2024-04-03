@@ -11503,8 +11503,8 @@ pre .code {
 
 @media only screen and (max-width: 600px) {
   .header {
-    background-image: none; 
-    background-color: #483d8b; 
+    background-image: url('../imgs/banner-reduced.jpg'); 
+    /* background-color: #483d8b;  */
   }
 }
 
