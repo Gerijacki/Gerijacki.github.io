@@ -9386,7 +9386,7 @@ pre .code {
   position: relative;
   height: 80vh;
   min-height: 600px;
-  background-image: url(../imgs/banner.jpg);  
+  background-image: url(../../../public/imgs/banner.jpg);  
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -9520,3 +9520,57 @@ pre .code {
   display: block;
   margin-top: 10px;
 }/*# sourceMappingURL=main.css.map */
+
+/* Selector del idioma */
+.language-select-container {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  display: flex;
+  align-items: center;
+  border-radius: 20px;
+  overflow: hidden;
+  transition: width 0.3s ease;
+  border: 2px solid #653e7f; 
+}
+
+.language-select-container select {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  background-color: transparent;
+  color: #007bff;
+  cursor: pointer;
+  outline: none;
+  transition: all 0.3s ease;
+}
+
+.language-select-container i {
+  margin-right: 10px;
+  color: #653e7f; 
+  transition: all 0.3s ease;
+}
+
+/* .language-select-container:hover {
+  width: 180px;
+} */
+
+.language-select-container:hover select {
+  padding-right: 40px;
+}
+
+.language-select-container:hover i {
+  color: #653e7f; 
+}
+
+.language-select-container option {
+  background-color: #fff;
+  color: #653e7f;
+}
+
+.language-select-container option:hover {
+  background-color: #f0f0f0;
+}
